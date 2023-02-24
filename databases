@@ -1,0 +1,16 @@
+SQL -DATABASES
+Birtakım kayıtların belli bir algoritmik yapı içerisinde tutulduğu dosyalara veritabanı(databases) denilmektedir.
+
+Örneğin: Bir kitabın bilgileri, şahıslara ilişkin bilgiler, ürünlere ilişkin bilgiler veritabanlarında saklanabilmektedir.
+
+Veritabanlarında amaç hızlı bir erişimin sağlanmasıdır.
+
+Uygulama programcılığında birtakım bilgilere hızlı bir şekilde erişilmesi en önemli unsurlardan biridir. Bu nedenle uygulama programcılığı için veritabanları önemli bir konudur.
+
+Veritabanı işlemleri uzmanlık gerektiren işlemlerdir.
+
+Programcının bir dosya açarak kayıtları onun içerisine yerleştirmesi ve dosya içerisinden sıralı bir biçimde bunlara erişmesi oldukça ilkel bir çalışma sistemidir.
+
+Veritabanı işlemleri karmaşık ve uzmanlık gerektiren işlemler olduğu için bu işleri yapan bağımsız yazılımlar oluşturulmuştur.
+
+Bunlara ‘’Veritabanı Yönetim Sistemi — VTYS (Database Management Systems- DBMS) denilmektedir.
